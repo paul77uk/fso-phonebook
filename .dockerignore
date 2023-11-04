@@ -3,6 +3,4 @@
 .dockerignore
 .env
 Dockerfile
-fly.toml 
-
-<!-- xmm8ums8RAP658rK -->
+fly.toml
