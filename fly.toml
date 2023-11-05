@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for rough-dew-4457 on 2023-11-04T00:48:43Z
+# fly.toml app configuration file generated for polished-wave-7962 on 2023-11-05T19:14:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "rough-dew-4457"
+app = "polished-wave-7962"
 primary_region = "lhr"
 
 [build]
